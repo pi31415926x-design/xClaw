@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ONBOARDING_SECTIONS"],"enum":["Section","SectionShape"],"fn":["is_known_section","section_help","section_index","section_index_for_key"]};

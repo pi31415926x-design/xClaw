@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CURRENT_SCHEMA_VERSION","V1_LEGACY_KEYS"],"fn":["detect_version","encrypt_secret_strings","ensure_disk_at_current_version","generate","migrate_file","migrate_file_in_place","migrate_to_current"],"struct":["GenerateOptions","MigrateReport"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ChannelRef","ModelCostRatesByProvider","ModelProviderRef","ModelProviders","Providers","TranscriptionCostRatesByProvider","TranscriptionProviderRef","TranscriptionProviders","TtsCostRatesByProvider","TtsProviderRef","TtsProviders"]};

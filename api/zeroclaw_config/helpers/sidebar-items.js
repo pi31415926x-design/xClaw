@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["enum_variants","make_prop_field","route_double_hashmap_path","route_hashmap_path","serde_get_prop","serde_set_prop","validate_alias_key"]};

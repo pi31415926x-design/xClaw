@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ApprovalRequirement","ApprovalResponse"],"fn":["summarize_args"],"struct":["ApprovalLogEntry","ApprovalManager","ApprovalRequest"]};
